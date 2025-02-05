@@ -15,5 +15,5 @@ jobs:
         target_repo_token: ${{ secrets.GITHUB_TOKEN }}
         upstream_sync_repo: snap-one/docs-driverworks-proxyprotocol-relay
         upstream_sync_branch: master
-        target_sync_branch: master
+        target_sync_branch: main
         test_mode: false
